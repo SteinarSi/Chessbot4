@@ -1,0 +1,1216 @@
+<tr id="yui-rec50" class="yui-dt-first yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/1">Alekhine Defense, Balogh
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">755</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B03</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-01-15</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2232</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2208</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">40.7%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">24.4%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">35.0%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Bc4</div>
+    </td>
+  </tr>
+  <tr id="yui-rec51" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/2">Alekhine Defense, Brooklyn
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">260</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-02-22</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2158</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2196</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">30.0%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">24.2%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">45.8%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Ng8</div>
+    </td>
+  </tr>
+  <tr id="yui-rec52" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/4">Alekhine Defense, Exchange
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">7248</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B03</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-10</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2232</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2181</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">41.0%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">27.4%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">31.6%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec53" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/6">Alekhine Defense, Four Pawns
+          Attack</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">966</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B03</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-02-07</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2170</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2110</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">39.9%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">22.6%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">37.6%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4</div>
+    </td>
+  </tr>
+  <tr id="yui-rec54" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/8">Alekhine Defense, Four Pawns
+          Attack, Fianchetto Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">289</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B03</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-01-02</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2107</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2158</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">38.1%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">21.1%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">40.8%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 g6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec55" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/9">Alekhine Defense, Four Pawns
+          Attack, Main Line</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1293</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B03</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-08</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2236</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2182</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">41.4%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">25.7%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">33.0%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Be3</div>
+    </td>
+  </tr>
+  <tr id="yui-rec56" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/11">Alekhine Defense, Four Pawns
+          Attack, Trifunovic Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">347</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B03</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-09</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2226</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2275</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">36.0%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">24.8%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">39.2%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 Bf5</div>
+    </td>
+  </tr>
+  <tr id="yui-rec57" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/13">Alekhine Defense, General</a>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">613</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-07</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">1975</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2017</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">42.6%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">23.3%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">34.1%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec58" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/15">Alekhine Defense, Hunt
+          Variation, Lasker Simul Gambit</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">352</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-01-29</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2199</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2173</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">34.7%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">23.6%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">41.8%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Nc3 e6 6.Bc4</div>
+    </td>
+  </tr>
+  <tr id="yui-rec59" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/21">Alekhine Defense, Maroczy
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1039</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-09</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2138</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2142</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">36.8%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">24.4%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">38.9%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.d3</div>
+    </td>
+  </tr>
+  <tr id="yui-rec60" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/22">Alekhine Defense, Modern
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">535</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B04</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-01-26</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2400</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2328</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">44.9%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">31.4%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">23.7%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3</div>
+    </td>
+  </tr>
+  <tr id="yui-rec61" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/23">Alekhine Defense, Modern
+          Variation, Alburt Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">2813</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B04</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-15</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2246</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2290</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">28.8%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">29.9%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">41.3%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec62" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/24">Alekhine Defense, Modern
+          Variation, Alekhine Gambit</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">129</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B04</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2019-07-22</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2083</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2067</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">37.2%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">22.5%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">40.3%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.c4 Nb6 6.Be2</div>
+    </td>
+  </tr>
+  <tr id="yui-rec63" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/26">Alekhine Defense, Modern
+          Variation, Keres Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">281</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B04</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2019-12-05</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2448</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2383</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">45.5%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">37.0%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">17.4%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.a4</div>
+    </td>
+  </tr>
+  <tr id="yui-rec64" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/27">Alekhine Defense, Modern
+          Variation, Larsen Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1248</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B04</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-08</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2238</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2275</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">23.1%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">35.3%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">41.7%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5</div>
+    </td>
+  </tr>
+  <tr id="yui-rec65" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/1546">Alekhine Defense, Modern
+          Variation, Larsen Variation, Miles Line</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1662</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B04</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-04</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2262</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2298</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">25.3%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">35.4%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">39.3%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5 5.Nxe5 c6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec66" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/2842">Alekhine Defense, Modern
+          Variation, Larsen-Haakert Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">736</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B04</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-08</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2155</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2177</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">32.1%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">21.3%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">46.6%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Nc6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec67" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/28">Alekhine Defense, Modern
+          Variation, Main Line</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">5369</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B05</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-14</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2203</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2266</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">25.3%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">29.6%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">45.1%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4</div>
+    </td>
+  </tr>
+  <tr id="yui-rec68" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/29">Alekhine Defense, Modern
+          Variation, Panov Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">199</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B05</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-14</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2278</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2251</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">45.2%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">20.6%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">34.2%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.h3</div>
+    </td>
+  </tr>
+  <tr id="yui-rec69" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/30">Alekhine Defense, Modern
+          Variation, Schmid Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">744</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B04</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-05</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2289</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2325</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">30.9%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">33.6%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">35.5%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Nb6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec70" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/34">Alekhine Defense, Normal
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1099</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-11</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2108</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2142</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">34.0%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">25.6%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">40.4%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5</div>
+    </td>
+  </tr>
+  <tr id="yui-rec71" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/35">Alekhine Defense, Normal
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1336</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B03</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-02-29</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2100</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2134</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">41.4%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">26.0%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">32.6%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.d4 d6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec72" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/36">Alekhine Defense, Saemisch
+          Attack</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1550</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-06</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2235</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2200</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">37.7%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">29.7%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">32.6%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.Nc3</div>
+    </td>
+  </tr>
+  <tr id="yui-rec73" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/37">Alekhine Defense,
+          Scandinavian Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:black;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">5451</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-08</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2105</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2129</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">40.3%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">27.9%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">31.9%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.Nc3 d5</div>
+    </td>
+  </tr>
+  <tr id="yui-rec74" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/40">Alekhine Defense, Spielmann
+          Gambit</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">147</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2019-08-21</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2239</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2191</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">39.5%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">17.7%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">42.9%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.e6</div>
+    </td>
+  </tr>
+  <tr id="yui-rec75" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/41">Alekhine Defense, Steiner
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">103</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-18</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2219</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2240</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">36.9%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">18.4%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">44.7%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.b3</div>
+    </td>
+  </tr>
+  <tr id="yui-rec76" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/42">Alekhine Defense, Two Pawn
+          Attack</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">474</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-07</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">1969</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">1936</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">37.1%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">17.7%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">45.1%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.c4</div>
+    </td>
+  </tr>
+  <tr id="yui-rec77" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/43">Alekhine Defense, Two Pawn
+          Attack, Lasker Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1030</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">B02</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-02-01</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2200</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2190</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">33.0%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">30.3%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">36.7%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5</div>
+    </td>
+  </tr>
+  <tr id="yui-rec78" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/45">Amar Opening, General</a>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">108</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">E00</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-14</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2096</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2100</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">41.7%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">18.5%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">39.8%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.Nh3</div>
+    </td>
+  </tr>
+  <tr id="yui-rec79" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/49">Anderssen Opening,
+          General</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1504</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">A00</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-07-06</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2104</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2112</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">34.9%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">25.5%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">39.6%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.a3</div>
+    </td>
+  </tr>
+  <tr id="yui-rec80" class="yui-dt-even" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/57">Benko Gambit, Accepted,
+          Central Storming Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">215</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">A57</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2019-10-20</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2254</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2240</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">38.6%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">23.3%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">38.1%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 g6 6.Nc3 Bxa6 7.f4</div>
+    </td>
+  </tr>
+  <tr id="yui-rec81" class="yui-dt-odd" style="">
+    <td headers="yui-dt0-th-name " class="yui-dt0-col-name yui-dt-col-name yui-dt-asc yui-dt-sortable yui-dt-first">
+      <div class="yui-dt-liner"><a href="https://old.chesstempo.com/gamedb/opening/58">Benko Gambit, Accepted, Dlugy
+          Variation</a></div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san">
+      <div class="yui-dt-liner">
+        <div style="width:30px;background-color:white;">&nbsp;</div>
+      </div>
+    </td>
+    <td headers="yui-dt0-th-total_games " class="yui-dt0-col-total_games yui-dt-col-total_games yui-dt-sortable">
+      <div class="yui-dt-liner">1619</div>
+    </td>
+    <td headers="yui-dt0-th-eco " class="yui-dt0-col-eco yui-dt-col-eco yui-dt-sortable">
+      <div class="yui-dt-liner">A57</div>
+    </td>
+    <td headers="yui-dt0-th-last_played " class="yui-dt0-col-last_played yui-dt-col-last_played">
+      <div class="yui-dt-liner">2020-03-11</div>
+    </td>
+    <td headers="yui-dt0-th-performance " class="yui-dt0-col-performance yui-dt-col-performance yui-dt-sortable">
+      <div class="yui-dt-liner">2283</div>
+    </td>
+    <td headers="yui-dt0-th-avg_player " class="yui-dt0-col-avg_player yui-dt-col-avg_player yui-dt-sortable">
+      <div class="yui-dt-liner">2264</div>
+    </td>
+    <td headers="yui-dt0-th-player_wins " class="yui-dt0-col-player_wins yui-dt-col-player_wins yui-dt-sortable">
+      <div class="yui-dt-liner">41.8%</div>
+    </td>
+    <td headers="yui-dt0-th-draws " class="yui-dt0-col-draws yui-dt-col-draws yui-dt-sortable">
+      <div class="yui-dt-liner">24.9%</div>
+    </td>
+    <td headers="yui-dt0-th-opponent_wins " class="yui-dt0-col-opponent_wins yui-dt-col-opponent_wins yui-dt-sortable">
+      <div class="yui-dt-liner">33.3%</div>
+    </td>
+    <td headers="yui-dt0-th-moves_san " class="yui-dt0-col-moves_san yui-dt-col-moves_san yui-dt-last">
+      <div class="yui-dt-liner">1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.f3</div>
+    </td>
+  </tr>

@@ -29,8 +29,10 @@ library
   exposed-modules:
       Board ,
       Bot ,
-      Color ,
-      Piece
+      Gui ,
+      Piece ,
+      OpeningParser ,
+      Toolbox
   other-modules:
       Paths_Chess
   hs-source-dirs:
@@ -42,6 +44,9 @@ library
     , monad-loops
     , QuickCheck
     , mtl
+    , gloss-juicy
+    , gloss
+    , containers
   default-language: Haskell2010
 
 executable Chess-exe
@@ -59,6 +64,8 @@ executable Chess-exe
     , monad-loops
     , QuickCheck
     , mtl
+    , gloss
+    , containers
   default-language: Haskell2010
 
 test-suite Chess-test

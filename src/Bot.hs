@@ -1,6 +1,36 @@
+module Bot where
+
+
+
+import Board2
+
+depth :: Int
+depth = 3
+
+alfabeta :: Board -> Int -> Score -> Score -> Score
+alfabeta b 0 _ _ = score b
+alfabeta b _ _ _ | isgameover b = score b
+alfabeta b n α β | colortomove b == White = forα α minBound (moves b White)
+    where forα α v [] = v
+          forα α v (m:ms) | α >= β = v
+                          | otherwise = let value = max v $ alfabeta (move b m) (n-1) α β
+                                        in  forα (max α value) value ms
+alfabeta b n α β | colortomove b == Black = forβ β maxBound (moves b Black)
+    where forβ β v [] = v
+          forβ β v (m:ms) | α >= β = v
+                          | otherwise = let value = min v $ alfabeta (move b m) (n-1) α β
+                                        in  forβ (min β value) value ms
+
+
+
+
+
+{-
+
 module Bot (miniMax, alphaBeta) where
 
-import Board (BoardST, BoardPure, Move, getMovesST, getLegalMovesST, getScoreST, goBackST, moveST, toBoardST, immedeateValue, orderMoves, getColorToMoveST)
+import Board (BoardST, BoardPure, Move, getMovesST, getLegalMovesST, getScoreST, goBackST, 
+    moveST, toBoardST, immedeateValue, orderMoves, getColorToMoveST)
 import Color (Color(..))
 import Control.Monad.ST (ST, runST)
 import Control.Monad (when, forM, forM_)
@@ -138,3 +168,4 @@ mini n boardST = do
     readSTRef ret >>= return
 
 
+-}

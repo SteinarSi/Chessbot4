@@ -1,9 +1,9 @@
-module Piece (Piece(..), isOppositeColor, getColor, getDirections, shwP, getPositionalValue, getCombinedValue) where
+module Piece (Piece(..), Color(..), Vector, piece, opposite, color, directions, positionalValue, combinedValue, toFilePath, showP) where
 
-import Color (Color(..), getOppositeColor)
-import Data.Array hiding ((!))
+import Data.Array
 import qualified Data.Array.IArray as A
 import Control.Exception
+import Data.Char
 
 data Piece = Pawn Color
            | Rook Color 
@@ -11,76 +11,99 @@ data Piece = Pawn Color
            | Bishop Color 
            | Queen Color 
            | King Color
-    deriving (Show, Read, Eq)
+    deriving (Read, Eq, Ord)
 
-arr ! index = mapException (addErrorInfo (" ! "++show index)) $ arr A.! index
-addErrorInfo info (ErrorCall str) = ErrorCall (str++":"++info)
+type Vector = (Int, Int)
 
-getInherentValue :: Piece -> Int
-getInherentValue (Pawn c)   = 100
-getInherentValue (Knight c) = 320
-getInherentValue (Bishop c) = 325
-getInherentValue (Rook c)   = 500
-getInherentValue (Queen c)  = 975
-getInherentValue (King c)   = 32767
+data Color = White | Black deriving (Show, Read, Eq, Ord)
 
-getPositionalValue :: Piece -> (Char, Int) -> Int
-getPositionalValue (Pawn White)   pos = pawnPosWhite ! pos
-getPositionalValue (Pawn Black)   pos = pawnPosBlack ! pos
-getPositionalValue (Rook White)   pos = rookPosWhite ! pos
-getPositionalValue (Rook Black)   pos = rookPosBlack ! pos
-getPositionalValue (Knight White) pos = knightPosWhite ! pos
-getPositionalValue (Knight Black) pos = knightPosBlack ! pos
-getPositionalValue (Bishop White) pos = bishopPosWhite ! pos
-getPositionalValue (Bishop Black) pos = bishopPosBlack ! pos
-getPositionalValue (Queen White)  pos = queenPosWhite ! pos
-getPositionalValue (Queen Black)  pos = queenPosBlack ! pos
-getPositionalValue (King White)   pos = kingPosWhite ! pos
-getPositionalValue (King Black)   pos = kingPosBlack ! pos
+opposite :: Color -> Color
+opposite White = Black
+opposite Black = White
 
-getCombinedValue :: Piece -> (Char, Int) -> Int
-getCombinedValue p pos = getInherentValue p + getPositionalValue p pos
+inherentValue :: Piece -> Int
+inherentValue (Pawn c)   = 100
+inherentValue (Knight c) = 320
+inherentValue (Bishop c) = 325
+inherentValue (Rook c)   = 500
+inherentValue (Queen c)  = 975
+inherentValue (King c)   = 32767
 
-isOppositeColor :: Piece -> Piece -> Bool
-isOppositeColor a b = getColor a /= getColor b
+positionalValue :: Piece -> (Char, Int) -> Int
+positionalValue (Pawn White)   pos = pawnPosWhite ! pos
+positionalValue (Pawn Black)   pos = pawnPosBlack ! pos
+positionalValue (Rook White)   pos = rookPosWhite ! pos
+positionalValue (Rook Black)   pos = rookPosBlack ! pos
+positionalValue (Knight White) pos = knightPosWhite ! pos
+positionalValue (Knight Black) pos = knightPosBlack ! pos
+positionalValue (Bishop White) pos = bishopPosWhite ! pos
+positionalValue (Bishop Black) pos = bishopPosBlack ! pos
+positionalValue (Queen White)  pos = queenPosWhite ! pos
+positionalValue (Queen Black)  pos = queenPosBlack ! pos
+positionalValue (King White)   pos = kingPosWhite ! pos
+positionalValue (King Black)   pos = kingPosBlack ! pos
 
-getColor :: Piece -> Color
-getColor (Pawn White)   = White
-getColor (Pawn Black)   = Black
-getColor (Rook White)   = White
-getColor (Rook Black)   = Black
-getColor (Knight White) = White
-getColor (Knight Black) = Black
-getColor (Bishop White) = White
-getColor (Bishop Black) = Black
-getColor (Queen White)  = White
-getColor (Queen Black)  = Black
-getColor (King White)   = White
-getColor (King Black)   = Black
+combinedValue :: Piece -> (Char, Int) -> Int
+combinedValue p pos = inherentValue p + positionalValue p pos
 
-getDirections :: Piece -> ([(Int, Int)], Bool)
-getDirections (Pawn White) = ([(-1,  1), (0,  1), (1,  1)], False)
-getDirections (Pawn Black) = ([(-1, -1), (0, -1), (1, -1)], False)
-getDirections (Rook c)     = ([(1, 0), (-1, 0), (0, 1), (0, -1)], True)
-getDirections (Knight c)   = ([(-1, 2), (1, 2), (-1, -2), (1, -2), (2, -1), (2, 1), (-2, -1), (-2, 1)], False)
-getDirections (Bishop c)   = ([(1, 1), (1, -1), (-1, 1), (-1, -1)], True)
-getDirections (Queen c)    = ([(-1, -1), (0, -1), (1, -1), (1, 0), (1, 1), (0, 1), (-1, 1), (-1, 0)], True)
-getDirections (King c)     = ([(-1, -1), (0, -1), (1, -1), (1, 0), (1, 1), (0, 1), (-1, 1), (-1, 0)], False)
+color :: Piece -> Color
+color (Pawn White)   = White
+color (Pawn Black)   = Black
+color (Rook White)   = White
+color (Rook Black)   = Black
+color (Knight White) = White
+color (Knight Black) = Black
+color (Bishop White) = White
+color (Bishop Black) = Black
+color (Queen White)  = White
+color (Queen Black)  = Black
+color (King White)   = White
+color (King Black)   = Black
 
-shwP :: Maybe Piece -> Char
-shwP Nothing               = '-'
-shwP (Just (Pawn White))   = 'P'
-shwP (Just (Pawn Black))   = 'p'
-shwP (Just (Rook White))   = 'R'
-shwP (Just (Rook Black))   = 'r'
-shwP (Just (Knight White)) = 'N'
-shwP (Just (Knight Black)) = 'n'
-shwP (Just (Bishop White)) = 'B'
-shwP (Just (Bishop Black)) = 'b'
-shwP (Just (Queen White))  = 'Q'
-shwP (Just (Queen Black))  = 'q'
-shwP (Just (King White))   = 'K'
-shwP (Just (King Black))   = 'k'
+directions :: Piece -> ([Vector], Bool)
+directions (Pawn White) = ([(-1,  1), (0,  1), (1,  1)], False)
+directions (Pawn Black) = ([(-1, -1), (0, -1), (1, -1)], False)
+directions (Rook c)     = ([(1, 0), (-1, 0), (0, 1), (0, -1)], True)
+directions (Knight c)   = ([(-1, 2), (1, 2), (-1, -2), (1, -2), (2, -1), (2, 1), (-2, -1), (-2, 1)], False)
+directions (Bishop c)   = ([(1, 1), (1, -1), (-1, 1), (-1, -1)], True)
+directions (Queen c)    = ([(-1, -1), (0, -1), (1, -1), (1, 0), (1, 1), (0, 1), (-1, 1), (-1, 0)], True)
+directions (King c)     = ([(-1, -1), (0, -1), (1, -1), (1, 0), (1, 1), (0, 1), (-1, 1), (-1, 0)], False)
+
+instance Show Piece where
+  show (Pawn   White) = "P"
+  show (Pawn   Black) = "p"
+  show (Rook   White) = "R"
+  show (Rook   Black) = "r"
+  show (Knight White) = "N"
+  show (Knight Black) = "n"
+  show (Bishop White) = "B"
+  show (Bishop Black) = "b"
+  show (Queen  White) = "Q"
+  show (Queen  Black) = "q"
+  show (King   White) = "K"
+  show (King   Black) = "k"
+
+showP :: Maybe Piece -> Char
+showP Nothing = '-'
+showP (Just p) = head (show p)
+
+toFilePath :: Piece -> FilePath
+toFilePath p = "../resources/" ++ map toUpper (show p) ++ if color p == White then "w.png" else "b.png"
+
+piece :: Char -> Maybe Piece
+piece 'P' = (Just (Pawn White))   
+piece 'p' = (Just (Pawn Black))   
+piece 'R' = (Just (Rook White))   
+piece 'r' = (Just (Rook Black))   
+piece 'N' = (Just (Knight White)) 
+piece 'n' = (Just (Knight Black)) 
+piece 'B' = (Just (Bishop White)) 
+piece 'b' = (Just (Bishop Black)) 
+piece 'Q' = (Just (Queen White))  
+piece 'q' = (Just (Queen Black))  
+piece 'K' = (Just (King White))   
+piece 'k' = (Just (King Black)) 
+piece  c  = Nothing
 
 pawnPosWhite :: Array (Char, Int) Int
 pawnPosWhite = arrW pawnPos

@@ -1,5 +1,11 @@
 module Main where
+import Gui
 
+main :: IO ()
+main = gui
+
+
+{-
 import Bot (miniMax, alphaBeta)
 import Board (BoardST, BoardPure, Move, Color, newboard, getLegalMovesPure, movePure, isLegalPure, 
     goBackPure, goBackST, toBoardST, toBoardPure, getMovesST, moveST, boardInfo, shwST)
@@ -10,6 +16,10 @@ import Control.Monad.ST
 import Control.Monad
 import Test.QuickCheck
 import Debug.Trace
+
+import Gui
+
+import OpeningParser
 
 checkMoveAndGoBack :: Int -> Bool
 checkMoveAndGoBack n = runST $ do
@@ -24,8 +34,11 @@ checkMoveAndGoBack n = runST $ do
     pure2 <- toBoardPure boardST2
     return (pure1 == pure2)
 
-main = quickCheck (checkMoveAndGoBack)
-
+--main = quickCheck (checkMoveAndGoBack)
+{-
+main = do
+    f <- readFile "src/OpeningTable1"
+    print $ parseOpening' f -}
 
 main' :: IO ()
 main' = inter newboard
@@ -38,19 +51,20 @@ inter board = do
     if      inn == "moves" then print (getLegalMovesPure board) >> inter board
     else if inn == "back"  then inter (goBackPure board)
     else if inn == "bot"   then inter (movePure board (alphaBeta board))
-    else case parseMove inn of
+    else case parseMove2 inn of
         Left err -> putStrLn ("Unrecognized command.") >> inter board
         Right move -> if isLegalPure board move then inter $ movePure board move
                       else putStrLn "Illegal move!" >> inter board
 
 
-parseMove :: String -> Either ParseError Move
-parseMove = parse parseMove' "(source)" . map toUpper . filter (/=' ')
+parseMove2 :: String -> Either ParseError Move
+parseMove2 = parse parseMove2' "(source)" . map toUpper . filter (/=' ')
     where 
-        parseMove' :: Parsec String () Move
-        parseMove' = do
+        parseMove2' :: Parsec String () Move
+        parseMove2' = do
             c1 <- oneOf ['A'..'H']
             r1 <- oneOf ['1'..'8']
             c2 <- oneOf ['A'..'H']
             r2 <- oneOf ['1'..'8']
             return ((c1, digitToInt r1), (c2, digitToInt r2))
+            -}
